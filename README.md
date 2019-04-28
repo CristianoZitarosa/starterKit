@@ -9,7 +9,7 @@ Remove unwanted links/files according to needs.
 * `<meta name="description" content="_to fill_"/>`;
 * `<meta name="viewport" content="width=device-width, initial-scale=1.0">`;
 * `<link rel="icon" type="image/png" href="favicon.ico">`;
-* jQuery 3.3.1 minified local file or linked;
+* jQuery 3.4.0 minified local file or linked;
 * fontawesome ready;
 * README and LICENSE files.
 

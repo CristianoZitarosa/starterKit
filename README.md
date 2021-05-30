@@ -9,7 +9,7 @@ Remove unwanted links/files according to needs.
 * `<meta name="description" content="_to fill_"/>`;
 * `<meta name="viewport" content="width=device-width, initial-scale=1.0">`;
 * `<link rel="icon" type="image/png" href="favicon.ico">`;
-* jQuery 3.4.0 minified local file or linked;
+* jQuery 3.6.0 minified local file or linked;
 * fontawesome ready;
 * README and LICENSE files.
 
@@ -17,7 +17,7 @@ Remove unwanted links/files according to needs.
 
 MIT License
 
-Copyright (c) 2018 Cristiano Zitarosa
+Copyright (c) 2021 Cristiano Zitarosa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
